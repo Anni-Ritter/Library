@@ -1,0 +1,5 @@
+C:\Users\anasm\source\repos\DDD_Library\DDDLibrary.Domain\obj\Debug\net6.0\DDDLibrary.Domain.csproj.AssemblyReference.cache
+C:\Users\anasm\source\repos\DDD_Library\DDDLibrary.Domain\obj\Debug\net6.0\DDDLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasm\source\repos\DDD_Library\DDDLibrary.Domain\obj\Debug\net6.0\DDDLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\anasm\source\repos\DDD_Library\DDDLibrary.Domain\obj\Debug\net6.0\DDDLibrary.Domain.AssemblyInfo.cs
+C:\Users\anasm\source\repos\DDD_Library\DDDLibrary.Domain\obj\Debug\net6.0\DDDLibrary.Domain.csproj.CoreCompileInputs.cache

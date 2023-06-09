@@ -1,0 +1,8 @@
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.csproj.AssemblyReference.cache
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.AssemblyInfoInputs.cache
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.AssemblyInfo.cs
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.csproj.CoreCompileInputs.cache
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.RazorAssemblyInfo.cache
+C:\Users\anasm\source\repos\DDD_Library\DDD_Library\obj\Debug\net6.0\DDD_Library.RazorAssemblyInfo.cs
